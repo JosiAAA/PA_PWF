@@ -1,0 +1,209 @@
+.hal-donasi {
+    margin-top: 10%;
+    
+ }
+     .hal-donasi h1{
+         font-family: 'Josefin Sans', sans-serif;
+     color: black;
+     font-size: clamp(1.75rem, 1.75rem + .25 * (100vw - 23.4375rem) / 66.5625, 2rem);
+     font-weight : 600;
+     position: relative;
+     }   
+ 
+     .container-gmbr{
+         width: 700px;
+         height: 200px;
+       
+         margin-left: 10%;
+         align-items: center;
+         margin-top: 2%;
+         
+     }
+     .container-gmbr img{
+         border-radius: 30px;
+         size: 100%;
+         max-width: 600px;
+         max-height: 400px;
+         box-shadow: 6px 4px 6px rgba(0, 0, 0, 0.3);
+         
+     }
+     .page{
+         display: flex;
+     }
+     .page h1{
+         font-family: 'Josefin Sans', sans-serif;
+         font-size: 30px;
+     }
+     
+     
+    
+     .donate-btn h1{
+         margin-left:25%;
+         color: #1e1e1e;
+         font-family: 'Josefin Sans', sans-serif;
+     }
+    
+     .garis {
+             width: 35%;
+             border-top: 2px solid #212121; /* Warna dan ketebalan garis */
+             margin-top: 1%; /* Jarak dari elemen sekitarnya */
+             margin-left: 10%;
+         }
+         .penggalangan-dana-info {
+             gap: 5px;
+             margin-top: 0;
+     display: flex;
+     align-items: center; /* Align items vertically centered */
+ }
+ .penggalangan-dana-info p{
+     margin-top: 15px;
+         color:rgb(51, 51, 51);
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 1rem;
+     font-weight: 400;
+ }
+ .penggalangan-dana-info i {
+ 
+   margin-left: 10%;
+ }
+ .penggalangan-dana-date{
+     margin-top: 5px;
+     display: flex;
+     align-items: center; 
+     margin-left: 10%;
+     gap: 5px;
+   
+ }
+ .penggalangan-dana-date p{
+     
+    margin-top: 15px;
+    color: rgb(51, 51, 51);
+ font-family: 'Josefin Sans', sans-serif;
+ font-size: 1rem;
+ font-weight: 400;
+ }
+ .donate-btn{
+         width: 200px;
+         height: 70px;
+         background-color: rgb(235, 235, 235);
+         
+         margin-left: 4%;
+         display: flex;
+         align-content: center;
+         align-items: center;
+         text-align: center;
+         border-radius: 40px;
+         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+         cursor: pointer;
+         margin-top: 4%;
+ 
+        
+     }
+ .donate-nav{
+     border-radius: 30px;
+     margin-top: 2%;
+     width: 500px;
+     height: 410px;
+     background-color: rgba(231, 231, 231, 0.719);
+     box-shadow: 6px 4px 6px rgba(0, 0, 0, 0.3);
+ }
+ .total{
+     display: flex;
+     margin-left: 4%;
+     margin-top: 15%;
+     gap: 10px;
+ }
+ .jumlah{
+         
+        
+     }    .orang {
+        
+         color: #515151;
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 1rem;
+     font-weight: 400;
+   
+   
+     }
+     .desc{
+         margin-top: 2%;
+         margin-left:5%;
+     }
+     .desc {
+        gap: 10px;
+         display: flex;
+     }
+     .desc h1{
+         margin-top: 3.5%;
+     }
+     .desc p{
+         margin-top: 6%;
+         color: #767676;
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 1rem;
+     font-weight: 400;
+     }
+     button:active,
+         button:focus {
+             outline: none;
+         }
+         #donationForm button {
+             font-family: 'Josefin Sans', sans-serif;
+             background-color: #1e1e1e;
+             color: white;
+             border: none;
+             padding: 10px 20px;
+             border-radius: 5px;
+             cursor: pointer;
+         }
+  
+         .blur {
+     filter: blur(2px);
+ }
+ 
+ 
+ #donationFormContainer {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+     width: 400px;
+     height: 300px;
+     border-radius: 30px;
+     background-color: rgb(255, 255, 255);
+     box-shadow: 6px 4px 6px rgba(0, 0, 0, 0.3);
+     padding: 20px;
+     text-align: center;
+ }
+ 
+ #donationForm label,
+ #donationForm input,
+ #donationForm button {
+     font-family: 'Josefin Sans', sans-serif;
+ }
+ 
+ .black-button {
+     margin-top: 5%;
+   background-color:rgb(26, 26, 26); /* Warna latar belakang hitam */
+   color: white;           /* Warna teks putih agar kontras dengan latar belakang */
+   padding: 10px 20px;     /* Padding untuk memberikan ruang di sekitar teks */
+   border: none;           /* Menghilangkan border agar tampak lebih bersih */
+   border-radius: 5px;     /* Memberikan sudut melengkung pada tombol */
+   cursor: pointer;        /* Mengubah kursor menjadi tanda tangan saat mengarahkan ke tombol */
+ }
+ .black-button:hover {
+    
+   transition: transform 0.3s;
+         transform: scale(1.1); 
+ }
+ 
+ #donationFormContainer label {
+     margin-top: 5%;
+         font-family: Arial, sans-serif; /* Ganti dengan jenis font yang diinginkan */
+         text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.4);
+         display: inline-flex; /* Agar setiap label ditempatkan pada baris baru */
+     }
+ .donate-btn:hover{
+     transition: transform 0.3s;
+         transform: scale(1.1); 
+ }
