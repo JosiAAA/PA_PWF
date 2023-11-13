@@ -1,66 +1,93 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Demo Web
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Halaman Awal (Tanpa Login)
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/5e7c441a-9460-4ad6-abbb-55c5ce27c94d">
 
-## About Laravel
+Section About, menampilkan kegiatan apa saja yang dapat dilakukan pada website ini
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/5f4fe6f5-7ff3-47b9-877c-a91757597356">
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Halaman Registrasi
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/1176d750-270c-4647-9d87-5541261a54df">
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Halaman Login
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/c669e635-9cfb-4699-8f08-6d23900538cd">
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Halaman awal (dengan login), menampilkan nama user yang sedang melakukan login
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/840ebb07-3a0b-4c3a-a74a-1b595b35d485">
 
-## Learning Laravel
+Halaman Search, pada menu ini user dapat melakukan pencarian menggunakan fitur search,filter,dan sorting
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/9c1d7774-c9f2-417a-9c31-a84841f6da71">
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Pencarian dengan menggunakan Sorting waktu
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/dcad25f0-adc5-4822-b75c-49dcbde0bbe1">
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+pencarian dengan menggunakan Filter Lokasi
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/c98c9b18-2a41-480e-8b85-c3d95c784fa5">
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Pencarian dengan menggunakan search melalui nama pembuat postingan
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/a6a25813-2f90-4c29-8b06-5ad7ad640ffc">
 
-## Laravel Sponsors
+Berikutnya adalah halaman Postingan Milik User, pada halaman ini berisikan penggalangan dana yang pernah dilakukan oleh user
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/454a120d-34fd-4d7e-ab58-522841fa648d">
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Untuk melakukan penggalangan dana, user perlu memposting  pada halaman posting
 
-### Premium Partners
+Halaman Posting
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/92439919-46c8-4a88-9648-b1cc59716c72">
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+jika posting berhasil, maka input tadi akan tampil pada halaman postingan user
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/a19f62c5-084b-439d-b795-1bb1db7d5e5e">
 
-## Contributing
+Pada halaman ini user juga dapat melakukan hapus data
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/97a8b29a-316d-4b15-adac-57498789cba7">
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Berikutnya adalah halaman Donasi, pada halaman ini berisikan fitur untuk melakukan donasi,topup, dan berkomentar
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/ff1326cd-a7fa-4131-a5b9-9bfa93629d79">
 
-## Code of Conduct
+Proses melakukan Donasi
+(1)Menginput Nominal 
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/1788eb8e-b18d-4773-af8d-90ed32bc8842">
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+(2)Hasil Donasi Bertambah sesuai nominal (50.000) dan jumlah pendonasi bertambah 1
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/18aba8d9-c66f-47ac-b003-a45576ca905e">
 
-## Security Vulnerabilities
+Proses melakukan TopUp
+(1)Menginput Nominal
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/d203311b-882b-48b6-b62b-5c8d86faee1b">
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+(2)Hasil TopUp bertambah sesuai nominal (500.000)
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/5f0ef10c-b57f-4555-8993-1a010d2d3764">
 
-## License
+Fitur Komentar
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/c4b87ef7-77cd-482d-b5bd-37f7e24dbece">
+<img width="1280" alt="image" src="https://github.com/JosiAAA/PA_PWF/assets/102679486/c0dbd6dc-21a7-479b-b96f-619b26ffa84e">
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Pengimplementasian CRUD
+
+Dalam membuat website ini, pengimplementasin CRUD disebar dibeberapa bagian pada program
+
+CREATE: Pengimplementasian Create tersebar pada menu Register,dan Posting
+READ: Pengimplementasian Read tersebar pada  pada menu search,donasi,posting, fitur komentar dan fitur saldo
+UPDATE: Pengimplementasian Update digunakan pada fitur melakukan Donasi, untuk mengupdate jumlah total donasi yang terkumpul dan pengguna yang melakukan donasi.Serta pada fitur Saldo, untuk mengubah jumlah saldo yang dimiliki oleh user
+DELETE: Pengimplementasian Delete diterapkan pada halaman Postingan user
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
